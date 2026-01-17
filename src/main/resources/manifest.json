@@ -1,0 +1,13 @@
+{
+  "Group": "Radar",
+  "Name": "Hytale Radar",
+  "Version": "1.0.0",
+  "Description": "Shows all players on the HUD compass with real-time position tracking",
+  "Authors": [{"Name": "Jairo", "Email": "", "Url": ""}],
+  "Main": "com.radar.RadarPlugin",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false
+}
